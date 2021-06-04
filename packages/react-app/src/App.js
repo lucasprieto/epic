@@ -7,7 +7,7 @@ import { Body, Button, Header, Image, Link } from "./components";
 import logo from "./ethereumLogo.png";
 import useWeb3Modal from "./hooks/useWeb3Modal";
 
-import { addresses, abis } from "@project/contracts";
+import { addresses, abis } from "@epic/contracts";
 import GET_TRANSFERS from "./graphql/subgraph";
 
 async function readOnChainData() {

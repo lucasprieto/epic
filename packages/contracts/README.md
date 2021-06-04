@@ -1,4 +1,4 @@
-## @project/contracts
+## @epic/contracts
 
 A minimalist, opinionated structure for managing smart contract ABIs and addresses.
 
